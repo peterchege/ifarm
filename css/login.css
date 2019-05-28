@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	height: 100%;
+	padding: 10px 20px;
+}
+	
+form p{
+	padding-top: 20px;
+}
+
+.btn-log{
+	margin-right: 20px;
+	width: 150px;
+}
+
+.box-cow{
+	width: 100%;
+}
+
+.img-cow{
+	margin: 10px auto; 
+	width: 100%;
+}
+
+h1{
+	padding: 5% 0 20px 0;
+	font-size: 30px;
+}
+
+.form-two{
+	width: 90%;
+	margin: 0 auto;
+	padding: 40px 0px;
+}
+
+.btn-reg{
+	width: 50%;
+	margin: 40px 25%;
+}
